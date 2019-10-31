@@ -1,0 +1,14 @@
+{
+  "seed": 777,
+  "n_splits": 2,
+  "cat_feature_unique": 100,
+  "cat_feature_encoding": "sort_by_response",
+  "correlation_drop_coef": 0.9,
+  "engineer_features": true,
+  "fit_on_top_features": 0,
+  "ntrees": 50,
+  "max_depth": 8,
+  "learn_rate": 0.01,
+  "sample_rate": 0.9,
+  "col_sample_rate": 0.9
+}
